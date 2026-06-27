@@ -29,11 +29,18 @@ Featured Projects
 
 1. Sales Dashboard Analysis
 
-Tools: Excel | Power BI
+📊 Sales Dashboard Analysis (Excel)
 
-Interactive dashboard project focused on analyzing sales performance, identifying trends, and generating business insights.
+Excel-based sales analysis project focused on identifying business trends, performance metrics, and actionable insights through dashboard visualization.
 
-Status: Coming Soon
+Skills Demonstrated:
+
+- Data Cleaning
+- Dashboard Design
+- Data Visualization
+- Business Insight Generation
+
+Repository:
 
 ---
 
