@@ -84,6 +84,6 @@ Contact
 
 📧 Email: Adewunmimathew@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/mathewadewunmi
-💻 GitHub: Add Your GitHub Profile Link
+💻 GitHub: https://github.com/Lordgift2
 
 Thank you for visiting my portfolio.
