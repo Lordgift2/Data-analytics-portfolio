@@ -40,7 +40,7 @@ Skills Demonstrated:
 - Data Visualization
 - Business Insight Generation
 
-Repository:
+Repository:https://github.com/Lordgift2/Sales-dashboard-excel-project
 
 ---
 
